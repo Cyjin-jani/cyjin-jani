@@ -7,6 +7,7 @@
 - 🔭 I’m currently Open to new challenges and opportunities
 - 🌱 I’m currently learning ... NextJs v15, React 19
 - 📫 How to reach me: ... jinjanic91@gmail.com
+- 📚 Here is [my blog](https://mildstrong.tistory.com/)..
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
