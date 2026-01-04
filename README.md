@@ -4,7 +4,7 @@
 </a>
 
 
-- 🔭 I’m currently working at ... [Pozalabs](https://www.pozalabs.com/about/)
+- 🔭 I’m currently Open to new challenges and opportunities
 - 🌱 I’m currently learning ... NextJs v15, React 19
 - 📫 How to reach me: ... jinjanic91@gmail.com
 <!--
